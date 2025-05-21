@@ -33,6 +33,5 @@ It supports full CRUD operations and is documented with Swagger UI.
 ![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/2.png)
 ![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/3.png)
 ![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/4.png)
-![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/5.png)
 ![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/6.png)
 ![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/7.png)
