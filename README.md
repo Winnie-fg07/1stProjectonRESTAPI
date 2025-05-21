@@ -25,3 +25,14 @@ It supports full CRUD operations and is documented with Swagger UI.
 3. Run the application using IntelliJ or:
    ```bash
    mvn spring-boot:run
+
+---
+## Screenshot of Result
+
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/1.png)
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/2.png)
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/3.png)
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/4.png)
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/5.png)
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/6.png)
+![App Task2JavaProgrammingPicture](Task2JavaProgrammingPicture/7.png)
